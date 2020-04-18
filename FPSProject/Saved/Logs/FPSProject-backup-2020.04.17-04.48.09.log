@@ -1,0 +1,1760 @@
+﻿Log file open, 04/16/20 19:21:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPSProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075484
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:938][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:946][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:946][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.17-02.21.40:946][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.17-02.21.40:946][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:946][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.17-02.21.40:946][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:946][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.17-02.21.40:947][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.17-02.21.40:948][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.17-02.21.40:948][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.17-02.21.40:948][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.17-02.21.40:951][  0]LogHAL: Display: Platform has ~ 16 GB [17123889152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.17-02.21.40:951][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.17-02.21.40:951][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:951][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.17-02.21.40:951][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.17-02.21.40:951][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:951][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.17-02.21.40:951][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.17-02.21.40:952][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Scalability.ini]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.17-02.21.40:953][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Config/Windows/Engine.ini]
+[2020.04.17-02.21.40:953][  0]LogInit: Computer: KOTTONKANDY
+[2020.04.17-02.21.40:953][  0]LogInit: User: sfg55
+[2020.04.17-02.21.40:953][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.17-02.21.40:953][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.17-02.21.40:953][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.17-02.21.40:953][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.17-02.21.40:953][  0]LogMemory: Process Physical Memory: 107.08 MB used, 107.09 MB peak
+[2020.04.17-02.21.40:953][  0]LogMemory: Process Virtual Memory: 102.45 MB used, 102.45 MB peak
+[2020.04.17-02.21.40:953][  0]LogMemory: Physical Memory: 4731.91 MB used,  11598.71 MB free, 16330.61 MB total
+[2020.04.17-02.21.40:953][  0]LogMemory: Virtual Memory: 5179.54 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.04.17-02.21.40:957][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.17-02.21.40:979][  0]LogInit: Using OS detected language (en-US).
+[2020.04.17-02.21.40:979][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.17-02.21.40:980][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.17-02.21.41:154][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.17-02.21.41:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.17-02.21.41:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.17-02.21.41:363][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.17-02.21.41:363][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.17-02.21.41:363][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.17-02.21.41:363][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.17-02.21.41:460][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.04.17-02.21.41:461][  0]LogD3D11RHI:       8031/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.17-02.21.41:464][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.17-02.21.41:464][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.17-02.21.41:464][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.17-02.21.41:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.17-02.21.41:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1f07 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.17-02.21.41:474][  0]LogWindows: EnumDisplayDevices:
+[2020.04.17-02.21.41:474][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.04.17-02.21.41:475][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.04.17-02.21.41:475][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.17-02.21.41:476][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.17-02.21.41:476][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.17-02.21.41:476][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.04.17-02.21.41:476][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.04.17-02.21.41:476][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.04.17-02.21.41:476][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.17-02.21.41:538][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.17-02.21.41:538][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.17-02.21.41:569][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.17-02.21.41:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.17-02.21.41:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.17-02.21.41:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.17-02.21.41:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.17-02.21.41:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.17-02.21.41:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.17-02.21.41:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.17-02.21.41:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.17-02.21.41:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.17-02.21.41:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.17-02.21.41:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.17-02.21.41:959][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.17-02.21.41:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.17-02.21.41:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.17-02.21.41:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.17-02.21.41:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.17-02.21.42:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.17-02.21.42:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.17-02.21.42:010][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.17-02.21.42:013][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.17-02.21.42:040][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Intermediate/Shaders/WorkingDirectory/9080/).
+[2020.04.17-02.21.42:040][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sfg55/AppData/Local/Temp/UnrealShaderWorkingDir/FCF8C1784DBBD548212D2DB4EECD5FA8/'.
+[2020.04.17-02.21.42:040][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.17-02.21.42:040][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.17-02.21.42:040][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.17-02.21.42:720][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/sfg55/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sfg55/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.17-02.21.42:768][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.17-02.21.42:778][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.17-02.21.42:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.17-02.21.42:778][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.17-02.21.42:780][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sfg55/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.17-02.21.42:780][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.17-02.21.42:780][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.17-02.21.42:805][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.17-02.21.42:808][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.17-02.21.42:808][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.17-02.21.42:861][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.04.17-02.21.43:152][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.17-02.21.43:301][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.17-02.21.43:301][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.17-02.21.43:301][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.17-02.21.43:301][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.17-02.21.43:301][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.17-02.21.43:315][  0]LogNetVersion: FPSProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1921956453)
+[2020.04.17-02.21.44:356][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.052596 seconds
+[2020.04.17-02.21.44:364][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.17-02.21.44:364][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.17-02.21.44:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.17-02.21.44:786][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.17-02.21.44:790][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.17-02.21.45:125][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.302 s
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: 
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1132]
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: Unable to bind delegate to 'OnHit' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: Stack: 
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff19a3a2b1 UE4Editor-FPSProject-6630.dll!DispatchCheckVerify<bool,<lambda_b5e02914a70b773e34a885ddb83c66b0> >() [c:\program files\epic games\ue_4.24\engine\source\runtime\core\public\misc\assertionmacros.h:167]
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff19a35716 UE4Editor-FPSProject-6630.dll!AFPSProjectile::AFPSProjectile() [c:\users\sfg55\documents\unreal projects\fpsproject\source\fpsproject\fpsprojectile.cpp:15]
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff34c9191a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff34f21ddf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff34f0119f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff34e357b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.04.17-02.21.45:125][  0]LogOutputDevice: Error: [Callstack] 0x00007fff383fc487 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007fff3841aa1b UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007fff53afaf37 UE4Editor-Projects.dll!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007fff53afb229 UE4Editor-Projects.dll!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad83f671 UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad84204b UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad83c17c UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad83c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad84ceae UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7ad84fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007fff8fdc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: [Callstack] 0x00007fff907cce51 ntdll.dll!UnknownFunction []
+[2020.04.17-02.21.45:126][  0]LogOutputDevice: Error: 
+[2020.04.17-02.21.45:135][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.17-02.21.46:202][  0]LogStats:                    SendNewReport -  1.066 s
+[2020.04.17-02.21.46:202][  0]LogStats:             FDebug::EnsureFailed -  1.378 s
+[2020.04.17-02.21.46:231][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.46:232][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.46:233][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.46:234][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.46:235][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.46:335][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.17-02.21.46:348][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.17-02.21.46:348][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.17-02.21.46:439][  0]LogOcInput: OculusInput pre-init called
+[2020.04.17-02.21.46:449][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.17-02.21.46:449][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.17-02.21.46:525][  0]LogEngine: Initializing Engine...
+[2020.04.17-02.21.46:526][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.17-02.21.46:527][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.17-02.21.46:855][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.17-02.21.46:864][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.17-02.21.46:870][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.17-02.21.46:870][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.17-02.21.46:870][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Name: C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.17-02.21.46:897][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.17-02.21.46:936][  0]LogAudioMixer: Display: Using Audio Device C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-02.21.46:940][  0]LogInit: FAudioDevice initialized.
+[2020.04.17-02.21.46:940][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.17-02.21.47:000][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/sfg55/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.17-02.21.47:001][  0]LogInit: Texture streaming: Enabled
+[2020.04.17-02.21.47:013][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.17-02.21.47:013][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.17-02.21.47:016][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.17-02.21.47:081][  0]LogInit: Transaction tracking system initialized
+[2020.04.17-02.21.47:091][  0]BlueprintLog: New page: Editor Load
+[2020.04.17-02.21.47:124][  0]LocalizationService: Localization service is disabled
+[2020.04.17-02.21.47:417][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Content/' took 0.00s
+[2020.04.17-02.21.47:417][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.17-02.21.47:417][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.17-02.21.48:096][  0]SourceControl: Source control is disabled
+[2020.04.17-02.21.48:096][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Maps/FPSMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.17-02.21.48:096][  0]LightingResults: New page: Lighting Build
+[2020.04.17-02.21.48:097][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.21.48:097][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.21.48:097][  0]MapCheck: New page: Map Check
+[2020.04.17-02.21.48:097][  0]LightingResults: New page: Lighting Build
+[2020.04.17-02.21.48:137][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.04.17-02.21.48:217][  0]LogAIModule: Creating AISystem for world FPSMap
+[2020.04.17-02.21.48:221][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.17-02.21.48:261][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.17-02.21.48:261][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.17-02.21.48:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2020.04.17-02.21.48:262][  0]LogFileHelpers: Loading map 'FPSMap' took 0.166
+[2020.04.17-02.21.48:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.21.48:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.21.48:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.21.48:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.21.48:440][  0]LogCollectionManager: Loaded 0 collections in 0.002210 seconds
+[2020.04.17-02.21.48:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Collections/' took 0.00s
+[2020.04.17-02.21.48:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Developers/sfg55/Collections/' took 0.00s
+[2020.04.17-02.21.48:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Collections/' took 0.00s
+[2020.04.17-02.21.48:469][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3019 classes and 719 folders.
+[2020.04.17-02.21.48:476][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.17-02.21.48:593][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.17-02.21.48:604][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.04.17-02.21.48:664][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.17-02.21.48:666][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.17-02.21.48:672][  0]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.17-02.21.48:750][  0]LogRenderer: Reallocating scene render targets to support 1424x808 Format 10 NumSamples 1 (Frame:1).
+[2020.04.17-02.21.48:936][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.17-02.21.48:936][  0]LogLoad: (Engine Initialization) Total time: 9.86 seconds
+[2020.04.17-02.21.48:936][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.17-02.21.48:980][  0]LogAssetRegistry: Asset discovery search completed in 6.1197 seconds
+[2020.04.17-02.21.48:984][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.04.17-02.21.48:985][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.17-02.21.53:643][549]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-02.21.53:655][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-02.21.53:656][549]PIE: New page: PIE session: FPSMap (Apr 16, 2020, 12:21:53 PM)
+[2020.04.17-02.21.53:658][549]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.17-02.21.53:659][549]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.17-02.21.53:659][549]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-02.21.53:662][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002589s)
+[2020.04.17-02.21.53:663][549]LogAIModule: Creating AISystem for world FPSMap
+[2020.04.17-02.21.53:663][549]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2020.04.17-02.21.53:663][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.004191s)
+[2020.04.17-02.21.53:701][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.17-02.21.53:702][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.17-02.21.53:702][549]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.17-02.21.53:702][549]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Name: C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Is Default: Yes
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: Channel Order:
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.17-02.21.53:723][549]LogAudioMixer: Display: 1: FrontRight
+[2020.04.17-02.21.53:735][549]LogAudioMixer: Display: Using Audio Device C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-02.21.53:736][549]LogInit: FAudioDevice initialized.
+[2020.04.17-02.21.53:901][549]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2020.04.17-02.21.53:903][549]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2020.04.16-19.21.53
+[2020.04.17-02.21.53:904][549]LogWorld: Bringing up level for play took: 0.001380
+[2020.04.17-02.21.53:904][549]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.17-02.21.53:910][549]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.17-02.21.53:916][549]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMap -0.242
+[2020.04.17-02.22.13:441][883]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-02.22.13:441][883]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-02.22.13:441][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.22.13:441][883]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-02.22.13:441][883]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-02.22.13:441][883]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.22.13:441][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.22.13:451][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-02.22.13:455][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.22.13:493][883]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-02.22.13:495][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-02.22.13:499][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.17-02.22.13:542][885]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.17-02.29.08:334][932]LogSlate: Took 0.002261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.17-02.29.08:355][932]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX)
+[2020.04.17-02.29.08:386][932]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX
+[2020.04.17-02.29.08:409][932]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.29.26:529][932]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.17-02.29.26:566][932]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpEnd.FBX)
+[2020.04.17-02.29.26:568][932]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpLoop.FBX)
+[2020.04.17-02.29.26:569][932]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpStart.FBX)
+[2020.04.17-02.29.26:570][932]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Run.FBX)
+[2020.04.17-02.31.07:784][315]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX)
+[2020.04.17-02.31.07:795][315]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX
+[2020.04.17-02.31.07:817][315]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.31.12:130][315]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-02.31.12:152][315]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-02.31.12:153][315]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-02.31.12:153][315]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-02.31.12:157][315]LogLinker: Failed to load '/Game/Animations/FPP_Idle': Can't find file.
+[2020.04.17-02.31.12:157][315]LogLinker: Failed to load '/Game/Animations/FPP_Idle': Can't find file.
+[2020.04.17-02.31.12:415][315]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-02.31.12:416][315]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Idle.FPP_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-02.31.12:427][315]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpEnd.FBX)
+[2020.04.17-02.31.12:438][315]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpEnd.FBX
+[2020.04.17-02.31.12:458][315]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-02.31.12:460][315]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-02.31.12:461][315]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-02.31.12:461][315]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-02.31.12:462][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpEnd': Can't find file.
+[2020.04.17-02.31.12:462][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpEnd': Can't find file.
+[2020.04.17-02.31.12:536][315]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-02.31.12:536][315]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-02.31.12:545][315]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpLoop.FBX)
+[2020.04.17-02.31.12:556][315]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpLoop.FBX
+[2020.04.17-02.31.12:576][315]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-02.31.12:579][315]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-02.31.12:580][315]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-02.31.12:581][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpLoop': Can't find file.
+[2020.04.17-02.31.12:581][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpLoop': Can't find file.
+[2020.04.17-02.31.12:698][315]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-02.31.12:698][315]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-02.31.12:707][315]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpStart.FBX)
+[2020.04.17-02.31.12:718][315]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpStart.FBX
+[2020.04.17-02.31.12:737][315]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-02.31.12:739][315]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-02.31.12:740][315]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-02.31.12:740][315]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-02.31.12:741][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpStart': Can't find file.
+[2020.04.17-02.31.12:741][315]LogLinker: Failed to load '/Game/Animations/FPP_JumpStart': Can't find file.
+[2020.04.17-02.31.12:811][315]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-02.31.12:811][315]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-02.31.12:820][315]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Run.FBX)
+[2020.04.17-02.31.12:830][315]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Run.FBX
+[2020.04.17-02.31.12:849][315]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-02.31.12:852][315]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-02.31.12:853][315]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-02.31.12:853][315]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-02.31.12:853][315]LogLinker: Failed to load '/Game/Animations/FPP_Run': Can't find file.
+[2020.04.17-02.31.12:853][315]LogLinker: Failed to load '/Game/Animations/FPP_Run': Can't find file.
+[2020.04.17-02.31.12:945][315]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-02.31.12:945][315]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Run.FPP_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-02.31.15:960][316]LogSlate: Window 'Message' being destroyed
+[2020.04.17-02.31.15:964][316]LoadErrors: Error: The Skeleton  GenericMale_Skeleton is missing bones that SkeletalMesh  GenericMale needs. They will be added now. Please save the Skeleton!
+[2020.04.17-02.31.39:002][ 41]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-02.31.39:006][ 41]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-02.31.41:754][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.04.17-02.31.41:785][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Idle" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset" SILENT=true
+[2020.04.17-02.31.41:801][328]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_IdleB30C5E484590D2775F2336BC1951DB2B.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset'
+[2020.04.17-02.31.41:814][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpEnd" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset" SILENT=true
+[2020.04.17-02.31.41:828][328]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpEnd6555569548592E4292F6C09295307C59.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset'
+[2020.04.17-02.31.41:840][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpLoop" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset" SILENT=true
+[2020.04.17-02.31.41:855][328]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpLoopF486720842D90CBFF61B65B016F8F818.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset'
+[2020.04.17-02.31.41:867][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpStart" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset" SILENT=true
+[2020.04.17-02.31.41:880][328]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpStart20199DC74FC21697EE275697C4332727.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset'
+[2020.04.17-02.31.41:892][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Run" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset" SILENT=true
+[2020.04.17-02.31.41:906][328]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_RunB0D77C0247E183B09B032C8F2F8DCF2B.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset'
+[2020.04.17-02.31.41:933][328]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.17-02.31.41:933][328]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-02.31.41:933][328]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-02.31.41:933][328]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-02.31.41:933][328]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-02.31.41:933][328]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-02.32.59:203][397]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.17-02.33.26:403][516]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-02.33.31:378][516]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-02.34.04:895][516]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.04.17-02.34.51:626][431]LogSlate: Window 'Message' being destroyed
+[2020.04.17-02.34.51:631][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX)
+[2020.04.17-02.34.51:637][431]LogEditorFactories: Performing atomic reimport of [C:/Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX]
+[2020.04.17-02.34.51:647][431]LogFbx: Loading FBX Scene from C:/Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX
+[2020.04.17-02.34.51:664][431]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-02.34.51:666][431]LogFbx: Valid bind pose for Pose (HeroFPP) - HeroFPP
+[2020.04.17-02.34.51:670][431]LogUObjectHash: Warning: Ambiguous path search, could be Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial or Material /Game/WorldGridMaterial.WorldGridMaterial
+[2020.04.17-02.34.51:670][431]LogFbx: Warning: Bones digested - 43  Depth of hierarchy - 9
+[2020.04.17-02.34.51:734][431]LogSkeletalMesh: Section 0: 1780 vertices, 40 active bones
+[2020.04.17-02.34.51:734][431]LogSkeletalMesh: Section 0: Material=0, 2600 triangles
+[2020.04.17-02.34.51:738][431]LogEditorFactories: -- imported successfully
+[2020.04.17-02.34.51:741][431]LogSkeletalMesh: Building Skeletal Mesh HeroFPP...
+[2020.04.17-02.34.51:791][431]LogSkeletalMesh: Section 0: 1780 vertices, 40 active bones
+[2020.04.17-02.34.51:791][431]LogSkeletalMesh: Section 0: Material=0, 2600 triangles
+[2020.04.17-02.34.51:796][431]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/HeroFPP.HeroFPP
+[2020.04.17-02.34.51:797][431]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.17-02.34.57:707][ 69]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/GenericMale_Skeleton.GenericMale_Skeleton
+[2020.04.17-02.34.57:720][ 69]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.04.17-02.34.59:594][ 69]LogSlate: Window 'Message' being destroyed
+[2020.04.17-02.34.59:608][ 69]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.04.17-02.35.04:345][ 69]LogSlate: Window 'Message' being destroyed
+[2020.04.17-02.35.09:494][520]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-02.35.09:499][520]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-02.35.25:851][ 36]LogSlate: Window 'GenericMale_Skeleton' being destroyed
+[2020.04.17-02.35.25:858][ 36]LogSlate: Window 'GenericMale_Skeleton' being destroyed
+[2020.04.17-02.35.25:858][ 36]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.35.25:858][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.35.43:704][  1]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.04.17-02.35.43:724][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-02.35.46:033][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-02.35.49:161][  1]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.04.17-02.39.20:177][266]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/NewAnimBlueprint.NewAnimBlueprint
+[2020.04.17-02.39.32:818][266]LogSlate: Window 'Message' being destroyed
+[2020.04.17-02.39.32:826][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-02.39.32:826][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_Idle
+[2020.04.17-02.39.32:826][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-02.39.32:826][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_Idle
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_JumpEnd
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_JumpLoop
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-02.39.32:827][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_JumpStart
+[2020.04.17-02.39.32:828][266]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-02.39.32:828][266]LogAnimationCompression: Compression Requested for Empty Animation FPP_Run
+[2020.04.17-02.39.32:828][266]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-02.39.32:995][266]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.17-02.39.33:739][266]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-02.39.33:978][266]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.17-02.39.34:177][267]LogSlate: Took 0.000993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.17-02.39.39:838][783]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2020.04.17-02.39.39:844][783]LogSlate: Window 'NewAnimBlueprint' being destroyed
+[2020.04.17-02.39.39:870][783]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.39.39:870][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.39.39:873][783]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.39.39:873][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.39.39:961][783]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-02.39.39:961][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-02.40.01:875][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.17-02.40.01:880][786]LogMetaData: Removing '/Game/Animations/Arms_AnimBP.Arms_AnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Animations/NewAnimBlueprint.PackageMetaData'
+[2020.04.17-02.40.01:880][786]LogMetaData: Removing '/Game/Animations/Arms_AnimBP.SKEL_Arms_AnimBP_C' ref from Metadata '/Game/Animations/NewAnimBlueprint.PackageMetaData'
+[2020.04.17-02.40.01:880][786]LogMetaData: Removing '/Game/Animations/Arms_AnimBP.Arms_AnimBP_C' ref from Metadata '/Game/Animations/NewAnimBlueprint.PackageMetaData'
+[2020.04.17-02.40.01:880][786]LogMetaData: Removing '/Game/Animations/Arms_AnimBP.Arms_AnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Animations/NewAnimBlueprint.PackageMetaData'
+[2020.04.17-02.40.01:881][786]LogMetaData: Removing '/Game/Animations/Arms_AnimBP.Arms_AnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Animations/NewAnimBlueprint.PackageMetaData'
+[2020.04.17-02.40.01:917][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-02.40.01:933][786]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBPC86F11064828E97AB23370A781E6012C.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-02.40.02:125][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.17-02.40.02:169][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.17-02.40.02:208][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.17-02.40.02:243][786]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-02.40.02:243][786]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-02.40.08:977][536]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-02.40.08:986][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-02.40.09:261][536]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-02.40.42:148][546]LogSlate: Took 0.004861 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.17-02.43.09:263][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.04.17-02.43.09:264][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.044
+[2020.04.17-02.43.09:265][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GenericMale_Skeleton] ([1] browsable assets)...
+[2020.04.17-02.43.09:265][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/GenericMale_Skeleton]
+[2020.04.17-02.43.09:299][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/GenericMale_Skeleton_Auto17718062B4D509B5F0B53639CCD9FB849.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/GenericMale_Skeleton_Auto1.uasset'
+[2020.04.17-02.43.09:300][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HeroFPP] ([1] browsable assets)...
+[2020.04.17-02.43.09:319][908]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/HeroFPP.HeroFPP]
+[2020.04.17-02.43.09:319][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/HeroFPP]
+[2020.04.17-02.43.09:319][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroFPP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/HeroFPP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.17-02.43.09:359][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/HeroFPP_Auto1B14C2C7846FE06F58E39B697A1E5DB5A.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/HeroFPP_Auto1.uasset'
+[2020.04.17-02.43.09:360][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/FPP_Idle] ([1] browsable assets)...
+[2020.04.17-02.43.09:378][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/FPP_Idle.FPP_Idle]
+[2020.04.17-02.43.09:378][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/FPP_Idle]
+[2020.04.17-02.43.09:404][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_Idle_Auto1019C38B44443312044A97D905C476135.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/FPP_Idle_Auto1.uasset'
+[2020.04.17-02.43.09:405][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/FPP_JumpEnd] ([1] browsable assets)...
+[2020.04.17-02.43.09:426][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd]
+[2020.04.17-02.43.09:426][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/FPP_JumpEnd]
+[2020.04.17-02.43.09:451][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpEnd_Auto1D9A319384CD2565093CD7EB3B8BC37AC.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/FPP_JumpEnd_Auto1.uasset'
+[2020.04.17-02.43.09:452][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/FPP_JumpLoop] ([1] browsable assets)...
+[2020.04.17-02.43.09:470][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop]
+[2020.04.17-02.43.09:470][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/FPP_JumpLoop]
+[2020.04.17-02.43.09:496][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpLoop_Auto13E759CE14D66B0CBC350B89D434209DC.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/FPP_JumpLoop_Auto1.uasset'
+[2020.04.17-02.43.09:497][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/FPP_JumpStart] ([1] browsable assets)...
+[2020.04.17-02.43.09:514][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart]
+[2020.04.17-02.43.09:515][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/FPP_JumpStart]
+[2020.04.17-02.43.09:539][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpStart_Auto17B1A681343937A79BE23ED8A6BD8157C.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/FPP_JumpStart_Auto1.uasset'
+[2020.04.17-02.43.09:540][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/FPP_Run] ([1] browsable assets)...
+[2020.04.17-02.43.09:559][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/FPP_Run.FPP_Run]
+[2020.04.17-02.43.09:559][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/FPP_Run]
+[2020.04.17-02.43.09:584][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_Run_Auto120578F7040C50916B7863A97091D2A77.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/FPP_Run_Auto1.uasset'
+[2020.04.17-02.43.09:585][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-02.43.09:602][908]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-02.43.09:602][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-02.43.09:632][908]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto188A856EF423E6C5F2FA7B9AB179F23ED.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto1.uasset'
+[2020.04.17-02.43.09:633][908]LogFileHelpers: Auto-saving content packages took 0.368
+[2020.04.17-02.53.08:155][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.17-02.53.08:157][503]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.046
+[2020.04.17-02.53.08:157][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-02.53.08:167][503]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-02.53.08:167][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-02.53.08:195][503]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto26A6E98014B5F58C81F18EAAFDB7AE77B.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto2.uasset'
+[2020.04.17-02.53.08:196][503]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.04.17-03.13.01:349][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.17-03.13.01:350][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.045
+[2020.04.17-03.13.01:350][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-03.13.01:359][597]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-03.13.01:359][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-03.13.01:390][597]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto3FE2CE6144E5C8F20B13B15808C7442D0.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto3.uasset'
+[2020.04.17-03.13.01:391][597]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.04.17-03.23.01:434][138]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.04.17-03.23.01:512][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.17-03.23.01:514][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.048
+[2020.04.17-03.23.01:514][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-03.23.01:523][138]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-03.23.01:523][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-03.23.01:557][138]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto41EA0FA9C457B8802B4E70DB21F89E27B.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto4.uasset'
+[2020.04.17-03.23.01:558][138]LogFileHelpers: Auto-saving content packages took 0.044
+[2020.04.17-04.09.37:714][512]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.04.17-04.09.37:792][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.17-04.09.37:793][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.047
+[2020.04.17-04.09.37:794][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-04.09.37:803][512]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-04.09.37:803][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-04.09.37:841][512]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto5214D22094E3F6BD6E3711380B9483CDA.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto5.uasset'
+[2020.04.17-04.09.37:843][512]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.04.17-04.13.56:025][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.13.56:063][194]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP3832E0F14782F54E5B7F8EA4EBAB7A7E.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.13.56:081][194]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.13.56:081][194]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.13.56:712][250]BlueprintLog: New page: Compile Arms_AnimBP
+[2020.04.17-04.13.56:983][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.17-04.14.01:773][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.17-04.14.01:789][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GenericMale_Skeleton" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/GenericMale_Skeleton.uasset" SILENT=true
+[2020.04.17-04.14.01:809][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/GenericMale_Skeleton7326D2334D2A43AAA2CEB787033BCD60.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/GenericMale_Skeleton.uasset'
+[2020.04.17-04.14.01:813][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroFPP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP.uasset" SILENT=true
+[2020.04.17-04.14.01:847][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/HeroFPP30FFB62D4662F597690A0EA6E869BE33.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP.uasset'
+[2020.04.17-04.14.01:851][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Idle" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset" SILENT=true
+[2020.04.17-04.14.01:870][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_Idle642EB2684337240656812387776326D0.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset'
+[2020.04.17-04.14.01:874][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpEnd" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset" SILENT=true
+[2020.04.17-04.14.01:892][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpEnd863AC4F34C0C4B8E133F5089D4B62568.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset'
+[2020.04.17-04.14.01:896][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpLoop" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset" SILENT=true
+[2020.04.17-04.14.01:915][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpLoopD85026274E20FFF5CC36E59417F7F124.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset'
+[2020.04.17-04.14.01:918][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpStart" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset" SILENT=true
+[2020.04.17-04.14.01:937][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpStart65E6F9694C3141116EAAE99208CF2546.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset'
+[2020.04.17-04.14.01:941][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Run" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset" SILENT=true
+[2020.04.17-04.14.01:960][655]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_RunDBEDDF084C4031316737DFA05B64BE4D.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset'
+[2020.04.17-04.14.02:004][655]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating Skeleton /Game/GenericMale_Skeleton.GenericMale_Skeleton
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating SkeletalMesh /Game/HeroFPP.HeroFPP
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-04.14.02:004][655]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-04.17.04:796][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.17.04:842][849]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP4680CC374C8D22FED928808EC0D92785.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.17.04:858][849]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.17.04:859][849]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.20.33:480][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.04.17-04.20.33:507][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.20.33:554][296]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP302690E045ED5303EC911386ED176261.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.20.33:570][296]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.20.33:570][296]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.20.34:200][347]BlueprintLog: New page: Compile Arms_AnimBP
+[2020.04.17-04.20.34:460][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.17-04.22.32:270][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.17-04.22.32:273][668]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FPSMap' took 0.048
+[2020.04.17-04.22.32:273][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Arms_AnimBP] ([1] browsable assets)...
+[2020.04.17-04.22.32:282][668]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP]
+[2020.04.17-04.22.32:282][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Arms_AnimBP]
+[2020.04.17-04.22.32:334][668]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP_Auto670DBCF404CA6DC58F43377A3527B10F9.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Autosaves/Game/Animations/Arms_AnimBP_Auto6.uasset'
+[2020.04.17-04.22.32:336][668]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.04.17-04.26.36:630][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.26.36:683][385]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP86903C8C414508F7204ABAA7892B7345.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.26.36:703][385]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.26.36:703][385]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.26.37:451][449]BlueprintLog: New page: Compile Arms_AnimBP
+[2020.04.17-04.26.37:719][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.04.17-04.27.30:033][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.27.30:089][536]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBPC4C8F84D46E48A1AB8442F9075F55A4C.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.27.30:109][536]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.27.30:109][536]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.27.30:502][568]BlueprintLog: New page: Compile Arms_AnimBP
+[2020.04.17-04.27.30:773][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.17-04.27.55:368][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.27.55:427][378]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBPC3CD171F44D8E01D572C609E85542183.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.27.55:442][378]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.27.55:442][378]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.27.57:038][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.17-04.29.58:025][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.29.58:075][274]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP794C7E6248FE5CD3DFD7DD82B6A5D58F.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.29.58:091][274]AssetCheck: New page: Asset Save: Arms_AnimBP
+[2020.04.17-04.29.58:091][274]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.29.59:348][383]LogSlate: Window 'Arms_AnimBP' being destroyed
+[2020.04.17-04.29.59:353][383]LogSlate: Window 'Arms_AnimBP' being destroyed
+[2020.04.17-04.29.59:378][383]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.29.59:378][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.29.59:381][383]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.29.59:381][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.29.59:491][383]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.29.59:491][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.30.07:698][301]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.31.08:533][493]LogSlate: Window 'BP_FPSCharacter' being destroyed
+[2020.04.17-04.31.08:541][493]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.31.08:541][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.31.08:599][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.32.07:367][675]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.17-04.32.38:152][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPSCharacter" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset" SILENT=true
+[2020.04.17-04.32.38:184][330]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/BP_FPSCharacter73CAF22A464AC4B394B7618299623673.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset'
+[2020.04.17-04.32.38:203][330]AssetCheck: New page: Asset Save: BP_FPSCharacter
+[2020.04.17-04.32.38:203][330]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.32.38:682][369]BlueprintLog: New page: Compile BP_FPSCharacter
+[2020.04.17-04.32.38:973][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.04.17-04.32.49:892][582]LogSlate: Window 'BP_FPSCharacter' being destroyed
+[2020.04.17-04.32.49:899][582]LogSlate: Window 'BP_FPSCharacter' being destroyed
+[2020.04.17-04.32.49:903][582]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.32.49:903][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.32.51:328][738]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-04.32.51:340][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-04.32.51:341][738]PIE: New page: PIE session: FPSMap (Apr 16, 2020, 2:32:51 PM)
+[2020.04.17-04.32.51:341][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-04.32.51:343][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002113s)
+[2020.04.17-04.32.51:344][738]LogAIModule: Creating AISystem for world FPSMap
+[2020.04.17-04.32.51:344][738]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2020.04.17-04.32.51:344][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003412s)
+[2020.04.17-04.32.51:381][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.17-04.32.51:384][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.17-04.32.51:384][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.17-04.32.51:385][738]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.17-04.32.51:385][738]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Name: C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Is Default: Yes
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: Channel Order:
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.17-04.32.51:407][738]LogAudioMixer: Display: 1: FrontRight
+[2020.04.17-04.32.51:421][738]LogAudioMixer: Display: Using Audio Device C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-04.32.51:423][738]LogInit: FAudioDevice initialized.
+[2020.04.17-04.32.51:431][738]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2020.04.17-04.32.51:432][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2020.04.16-21.32.51
+[2020.04.17-04.32.51:433][738]LogWorld: Bringing up level for play took: 0.000518
+[2020.04.17-04.32.51:433][738]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.17-04.32.51:435][738]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMap -0.722
+[2020.04.17-04.32.56:586][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.32.56:586][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.32.56:586][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-04.32.56:586][353]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-04.32.56:586][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.32.56:586][353]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.32.56:586][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.32.56:593][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-04.32.56:598][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.32.56:639][353]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.32.56:641][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-04.32.56:645][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.17-04.32.56:685][355]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.17-04.33.00:773][842]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-04.33.00:785][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-04.33.00:785][842]PIE: New page: PIE session: FPSMap (Apr 16, 2020, 2:33:00 PM)
+[2020.04.17-04.33.00:786][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-04.33.00:788][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002087s)
+[2020.04.17-04.33.00:789][842]LogAIModule: Creating AISystem for world FPSMap
+[2020.04.17-04.33.00:789][842]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2020.04.17-04.33.00:789][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FPSMap.FPSMap to /Game/Maps/UEDPIE_0_FPSMap.FPSMap (0.003211s)
+[2020.04.17-04.33.00:825][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.17-04.33.00:827][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.17-04.33.00:827][842]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.17-04.33.00:827][842]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Name: C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Is Default: Yes
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: Channel Order:
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.17-04.33.00:848][842]LogAudioMixer: Display: 1: FrontRight
+[2020.04.17-04.33.00:859][842]LogAudioMixer: Display: Using Audio Device C32JG5x (2- NVIDIA High Definition Audio)
+[2020.04.17-04.33.00:861][842]LogInit: FAudioDevice initialized.
+[2020.04.17-04.33.00:866][842]LogLoad: Game class is 'BP_MyFPSProjectGameModeBase_C'
+[2020.04.17-04.33.00:867][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FPSMap.FPSMap up for play (max tick rate 0) at 2020.04.16-21.33.00
+[2020.04.17-04.33.00:867][842]LogWorld: Bringing up level for play took: 0.000506
+[2020.04.17-04.33.00:868][842]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.17-04.33.00:870][842]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FPSMap 0.712
+[2020.04.17-04.33.12:375][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.33.14:703][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.33.14:703][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.33.14:703][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-04.33.14:703][276]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FPSMap
+[2020.04.17-04.33.14:705][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.33.14:705][276]LogWorld: UWorld::CleanupWorld for FPSMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.33.14:705][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.33.14:712][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-04.33.14:716][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.33.14:756][276]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.17-04.33.14:759][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-04.33.14:763][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.04.17-04.33.14:808][277]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.17-04.35.30:798][ 61]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.35.30:802][ 61]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX)
+[2020.04.17-04.35.30:805][ 61]LogEditorFactories: Performing atomic reimport of [C:/Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX]
+[2020.04.17-04.35.30:816][ 61]LogFbx: Loading FBX Scene from C:/Users/sfg55/Downloads/HeroFPP/HeroFPP.FBX
+[2020.04.17-04.35.30:831][ 61]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.35.30:833][ 61]LogFbx: Valid bind pose for Pose (HeroFPP) - HeroFPP
+[2020.04.17-04.35.30:837][ 61]LogUObjectHash: Warning: Ambiguous path search, could be Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial or Material /Game/WorldGridMaterial.WorldGridMaterial
+[2020.04.17-04.35.30:837][ 61]LogFbx: Warning: Bones digested - 43  Depth of hierarchy - 9
+[2020.04.17-04.35.30:896][ 61]LogSkeletalMesh: Section 0: 1780 vertices, 40 active bones
+[2020.04.17-04.35.30:896][ 61]LogSkeletalMesh: Section 0: Material=0, 2600 triangles
+[2020.04.17-04.35.39:773][ 61]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.35.39:780][ 61]LogEditorFactories: -- imported successfully
+[2020.04.17-04.35.39:783][ 61]LogSkeletalMesh: Building Skeletal Mesh HeroFPP...
+[2020.04.17-04.35.39:832][ 61]LogSkeletalMesh: Section 0: 1780 vertices, 40 active bones
+[2020.04.17-04.35.39:833][ 61]LogSkeletalMesh: Section 0: Material=0, 2600 triangles
+[2020.04.17-04.35.39:837][ 61]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/HeroFPP.HeroFPP
+[2020.04.17-04.35.39:838][ 61]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.17-04.35.53:289][838]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.37.19:560][302]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/HeroFPP.HeroFPP
+[2020.04.17-04.37.24:126][302]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.37.24:131][302]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.37.24:132][302]LogAnimationCompression: Compression Requested for Empty Animation FPP_Idle
+[2020.04.17-04.37.24:132][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.37.24:186][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.37.28:255][302]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.37.33:929][892]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-04.37.33:934][892]LogSlate: Window 'Message Log' being destroyed
+[2020.04.17-04.37.45:947][158]LogSlate: Window 'HeroFPP' being destroyed
+[2020.04.17-04.37.45:953][158]LogSlate: Window 'HeroFPP' being destroyed
+[2020.04.17-04.37.45:965][158]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.37.45:965][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.37.46:025][158]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.37.46:025][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.38.03:601][209]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/HeroFPP_Skeleton.HeroFPP_Skeleton
+[2020.04.17-04.38.03:607][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.38.03:647][209]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.38.13:839][362]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/GenericMale_Skeleton.GenericMale_Skeleton
+[2020.04.17-04.38.15:709][362]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.38.15:714][362]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.38.15:714][362]LogAnimationCompression: Compression Requested for Empty Animation FPP_Idle
+[2020.04.17-04.38.15:715][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.38.15:762][362]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.38.17:288][486]LogSlate: Window 'GenericMale_Skeleton' being destroyed
+[2020.04.17-04.38.17:293][486]LogSlate: Window 'GenericMale_Skeleton' being destroyed
+[2020.04.17-04.38.17:294][486]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.38.17:294][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.38.17:390][486]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.38.17:390][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.38.21:364][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.04.17-04.38.21:388][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GenericMale_Skeleton" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/GenericMale_Skeleton.uasset" SILENT=true
+[2020.04.17-04.38.21:411][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/GenericMale_Skeleton693CBC584D24EBBF02EF3F8721814843.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/GenericMale_Skeleton.uasset'
+[2020.04.17-04.38.21:425][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroFPP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP.uasset" SILENT=true
+[2020.04.17-04.38.21:469][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/HeroFPP55FEDE7A4469CF1DAC63C1AC6AE49986.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP.uasset'
+[2020.04.17-04.38.21:484][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Idle" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset" SILENT=true
+[2020.04.17-04.38.21:511][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_IdleE417FA0D401E2688D68186BDB77F3AD8.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset'
+[2020.04.17-04.38.21:526][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpEnd" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset" SILENT=true
+[2020.04.17-04.38.21:553][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpEnd113BD2B84BB8CC69C98F16ADD4F2F83D.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset'
+[2020.04.17-04.38.21:568][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpLoop" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset" SILENT=true
+[2020.04.17-04.38.21:597][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpLoopEEB1CADC436F878769EEB2B05CB925B4.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset'
+[2020.04.17-04.38.21:611][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpStart" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset" SILENT=true
+[2020.04.17-04.38.21:639][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpStart1B7AAF6040481E039805D49FE011E29A.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset'
+[2020.04.17-04.38.21:653][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Run" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset" SILENT=true
+[2020.04.17-04.38.21:680][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_RunF36E483649FDF6DADE26E7B2C6B2C735.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset'
+[2020.04.17-04.38.21:684][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HeroFPP_Skeleton" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP_Skeleton.uasset" SILENT=true
+[2020.04.17-04.38.21:690][924]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/HeroFPP_SkeletonF50057514E42F8FE39F9829DA565A3E3.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/HeroFPP_Skeleton.uasset'
+[2020.04.17-04.38.21:739][924]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.17-04.38.21:739][924]LogContentValidation: Display: Validating Skeleton /Game/GenericMale_Skeleton.GenericMale_Skeleton
+[2020.04.17-04.38.21:739][924]LogContentValidation: Display: Validating SkeletalMesh /Game/HeroFPP.HeroFPP
+[2020.04.17-04.38.21:739][924]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.38.21:739][924]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-04.38.21:740][924]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-04.38.21:740][924]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-04.38.21:740][924]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-04.38.21:740][924]LogContentValidation: Display: Validating Skeleton /Game/HeroFPP_Skeleton.HeroFPP_Skeleton
+[2020.04.17-04.38.35:497][514]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.38.48:790][762]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.17-04.39.28:269][407]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.39.28:276][407]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.39.28:537][407]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.41.33:460][985]LogSlate: Window 'Message' being destroyed
+[2020.04.17-04.41.33:466][985]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX)
+[2020.04.17-04.41.33:479][985]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Idle.FBX
+[2020.04.17-04.41.33:499][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.41.47:736][985]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-04.41.47:768][985]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-04.41.47:769][985]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-04.41.48:022][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.41.48:022][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Idle.FPP_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-04.41.48:032][985]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpEnd.FBX)
+[2020.04.17-04.41.48:043][985]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpEnd.FBX
+[2020.04.17-04.41.48:063][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-04.41.48:065][985]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-04.41.48:066][985]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-04.41.48:066][985]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-04.41.48:142][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-04.41.48:142][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-04.41.48:150][985]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpLoop.FBX)
+[2020.04.17-04.41.48:161][985]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpLoop.FBX
+[2020.04.17-04.41.48:180][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-04.41.48:182][985]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-04.41.48:183][985]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-04.41.48:183][985]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-04.41.48:306][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-04.41.48:306][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-04.41.48:315][985]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpStart.FBX)
+[2020.04.17-04.41.48:325][985]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_JumpStart.FBX
+[2020.04.17-04.41.48:344][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-04.41.48:347][985]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-04.41.48:348][985]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-04.41.48:348][985]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-04.41.48:425][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-04.41.48:425][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-04.41.48:433][985]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Run.FBX)
+[2020.04.17-04.41.48:444][985]LogFbx: Loading FBX Scene from ../../../../../../Users/sfg55/Downloads/FPP_Animations/FPP_Run.FBX
+[2020.04.17-04.41.48:464][985]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(0) b_Root
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(1) b_LeftArm
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(2) b_LeftArmRoll
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(3) b_LeftForeArm
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(4) b_LeftForeArmRoll
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(5) b_LeftHand
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(6) b_LeftHandIndex1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(7) b_LeftHandIndex2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(8) b_LeftHandIndex3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(9) b_LeftHandMiddle1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(10) b_LeftHandMiddle2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(11) b_LeftHandMiddle3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(12) b_LeftHandRing1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(13) b_LeftHandRing2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(14) b_LeftHandRing3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(15) b_LeftHandPinky1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(16) b_LeftHandPinky2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(17) b_LeftHandPinky3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(18) b_LeftHandThumb1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(19) b_LeftHandThumb2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(20) b_LeftHandThumb3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(21) b_LeftWeapon
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(22) b_RightArm
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(23) b_RightArmRoll
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(24) b_RightForeArm
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(25) b_RightForeArmRoll
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(26) b_RightHand
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(27) b_RightHandIndex1
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(28) b_RightHandIndex2
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(29) b_RightHandIndex3
+[2020.04.17-04.41.48:467][985]LogFbx: SortedLinks :(30) b_RightHandMiddle1
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(31) b_RightHandMiddle2
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(32) b_RightHandMiddle3
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(33) b_RightHandRing1
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(34) b_RightHandRing2
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(35) b_RightHandRing3
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(36) b_RightHandPinky1
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(37) b_RightHandPinky2
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(38) b_RightHandPinky3
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(39) b_RightHandThumb1
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(40) b_RightHandThumb2
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(41) b_RightHandThumb3
+[2020.04.17-04.41.48:468][985]LogFbx: SortedLinks :(42) b_RightWeapon
+[2020.04.17-04.41.48:468][985]LogFbx: Parsing AnimStack Unreal Matinee Take
+[2020.04.17-04.41.48:565][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-04.41.48:565][985]LogAnimationCompression: Recompressing (AnimSequence /Game/Animations/FPP_Run.FPP_Run) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.17-04.42.04:496][299]LogSlate: Window 'Arms_AnimBP' being destroyed
+[2020.04.17-04.42.04:499][299]LogSlate: Window 'Arms_AnimBP' being destroyed
+[2020.04.17-04.42.04:514][299]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.42.04:514][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.42.04:580][299]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.42.04:580][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.42.04:583][299]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.42.04:583][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.42.04:677][299]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.04.17-04.42.04:678][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.17-04.42.05:547][386]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.42.05:555][386]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.42.05:838][386]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.46.12:704][475]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.17-04.46.18:601][997]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-04.46.21:546][997]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.04.17-04.46.31:083][799]LogBlueprint: Error: [Compiler Stupid] Play FPP_Idle  references sequence that uses different skeleton  HeroFPP_Skeleton
+[2020.04.17-04.46.31:083][799]LogBlueprint: Error: [Compiler Stupid] Play FPP_JumpStart  references sequence that uses different skeleton  HeroFPP_Skeleton
+[2020.04.17-04.46.31:083][799]LogBlueprint: Error: [Compiler Stupid] Play FPP_JumpEnd  references sequence that uses different skeleton  HeroFPP_Skeleton
+[2020.04.17-04.46.31:084][799]LogBlueprint: Error: [Compiler Stupid] Play FPP_JumpLoop  references sequence that uses different skeleton  HeroFPP_Skeleton
+[2020.04.17-04.46.31:084][799]LogBlueprint: Error: [Compiler Stupid] Play FPP_Run  references sequence that uses different skeleton  HeroFPP_Skeleton
+[2020.04.17-04.46.31:086][799]LogBlueprint: Error: [Compiler Stupid] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.04.17-04.46.31:086][799]LogBlueprint: Error: [Compiler Stupid] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.04.17-04.46.31:086][799]LogBlueprint: Error: [Compiler Stupid] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.04.17-04.46.31:086][799]LogBlueprint: Error: [Compiler Stupid] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.04.17-04.46.31:086][799]LogBlueprint: Error: [Compiler Stupid] Missing allocated node for AnimGraphNode_SequencePlayer_0 while searching for node links - likely due to the node having outstanding errors.
+[2020.04.17-04.46.31:355][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid_C' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.SKEL_Stupid_C' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateNode_2.JumpEnd.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateNode_1.JumpStart.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateNode_3.JumpLoop.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateNode_4.Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:369][799]LogMetaData: Removing '/Game/Animations/Stupid.Stupid:AnimGraph.AnimGraphNode_StateMachine_0.Arms State Machine.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Animations/Arms_AnimBP.PackageMetaData'
+[2020.04.17-04.46.31:406][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Stupid" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Stupid.uasset" SILENT=true
+[2020.04.17-04.46.31:455][799]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/StupidC0CFCF1A4B5462C21A870F92255D2EA5.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Stupid.uasset'
+[2020.04.17-04.46.31:759][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.04.17-04.46.31:807][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.04.17-04.46.31:849][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.04.17-04.46.31:873][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPSCharacter" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset" SILENT=true
+[2020.04.17-04.46.31:905][799]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/BP_FPSCharacter504E04A34D21EEAABBC9128BD14C45F4.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Blueprints/BP_FPSCharacter.uasset'
+[2020.04.17-04.46.31:981][799]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.17-04.46.31:981][799]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Stupid.Stupid
+[2020.04.17-04.46.31:981][799]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FPSCharacter.BP_FPSCharacter
+[2020.04.17-04.46.37:960][313]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.04.17-04.46.37:983][313]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.04.17-04.46.42:929][313]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.04.17-04.47.03:915][404]LogAnimation: Warning: AnimBP Stupid_C is incompatible with skeleton HeroFPP_Skeleton, removing AnimBP from actor.
+[2020.04.17-04.47.10:474][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.17-04.47.10:508][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Idle" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset" SILENT=true
+[2020.04.17-04.47.10:537][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_Idle12D0170C4F412FD63DCA4C903FB2A336.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Idle.uasset'
+[2020.04.17-04.47.10:549][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpEnd" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset" SILENT=true
+[2020.04.17-04.47.10:577][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpEndAFDC42FA45BF2ED6287A0EA44B502DE2.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpEnd.uasset'
+[2020.04.17-04.47.10:590][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpLoop" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset" SILENT=true
+[2020.04.17-04.47.10:618][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpLoop71BC99894F8EDEF69C6F929A7773DE7C.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpLoop.uasset'
+[2020.04.17-04.47.10:631][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_JumpStart" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset" SILENT=true
+[2020.04.17-04.47.10:660][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_JumpStartEBB006C6426873F56BD2F197E6CFBE1E.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_JumpStart.uasset'
+[2020.04.17-04.47.10:672][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FPP_Run" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset" SILENT=true
+[2020.04.17-04.47.10:703][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/FPP_RunEC41DEB8460E3D3EEDCDA39ED93F4702.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/FPP_Run.uasset'
+[2020.04.17-04.47.10:714][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Arms_AnimBP" FILE="../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset" SILENT=true
+[2020.04.17-04.47.10:730][ 34]LogSavePackage: Moving '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Saved/Arms_AnimBP683641DA4ECEBFB67A7F29B3706A737D.tmp' to '../../../../../../Users/sfg55/Documents/Unreal Projects/FPSProject/Content/Animations/Arms_AnimBP.uasset'
+[2020.04.17-04.47.10:769][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Idle.FPP_Idle
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpEnd.FPP_JumpEnd
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpLoop.FPP_JumpLoop
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_JumpStart.FPP_JumpStart
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimSequence /Game/Animations/FPP_Run.FPP_Run
+[2020.04.17-04.47.10:769][ 34]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.47.27:783][739]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animations/Arms_AnimBP.Arms_AnimBP
+[2020.04.17-04.47.27:790][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.17-04.47.28:047][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.17-04.48.07:768][764]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.17-04.48.07:769][764]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.04.17-04.48.09:377][764]LogWindows: Error: === Critical error: ===
+[2020.04.17-04.48.09:377][764]LogWindows: Error: 
+[2020.04.17-04.48.09:377][764]LogWindows: Error: Assertion failed: DuplicatedGraph [File:D:/Build/++UE4/Sync/Engine/Source/Editor/Kismet/Private/SMyBlueprint.cpp] [Line: 2808] 
+[2020.04.17-04.48.09:377][764]LogWindows: Error: 
+[2020.04.17-04.48.09:377][764]LogWindows: Error: 
+[2020.04.17-04.48.09:377][764]LogWindows: Error: 
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff8da0a799 KERNELBASE.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff3860a7b6 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff3860dc58 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff383c2c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff3834fd43 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff383520c0 UE4Editor-Core.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff2c88a76c UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff2c84c798 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff34696c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff347725be UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff34778430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff34751b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff347e1498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff347f9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff34779b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff3465323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff346d9175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff346c413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff346b8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff4aca4ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff4ac9242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff4aca7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff4ac8ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff8ff65c0d USER32.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff8ff65602 USER32.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff4aca8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007ff7ad826db0 UE4Editor.exe!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007ff7ad83c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007ff7ad83c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007ff7ad84ceae UE4Editor.exe!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007ff7ad84fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff8fdc7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: [Callstack] 0x00007fff907cce51 ntdll.dll!UnknownFunction []
+[2020.04.17-04.48.09:377][764]LogWindows: Error: 
+[2020.04.17-04.48.09:388][764]LogExit: Executing StaticShutdownAfterError
+[2020.04.17-04.48.09:391][764]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.17-04.48.09:391][764]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.04.17-04.48.09:400][764]Log file closed, 04/16/20 21:48:09

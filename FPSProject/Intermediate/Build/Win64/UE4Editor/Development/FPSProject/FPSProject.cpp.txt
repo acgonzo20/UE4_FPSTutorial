@@ -1,0 +1,2 @@
+C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h
+c:\users\sfg55\documents\unreal projects\fpsproject\source\fpsproject\FPSProject.h

@@ -1,0 +1,11 @@
+﻿  Building FPSProjectEditor...
+  Using Visual Studio 2017 14.16.27038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] FPSHUD.cpp
+    [2/4] UE4Editor-FPSProject-0002.lib
+       Creating library C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0002.lib and object C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0002.exp
+    [3/4] UE4Editor-FPSProject-0002.dll
+       Creating library C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0002.suppressed.lib and object C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\UE4Editor-FPSProject-0002.suppressed.exp
+    [4/4] FPSProjectEditor.target
+  Total time in Parallel executor: 7.82 seconds
+  Total execution time: 8.44 seconds

@@ -1,0 +1,8 @@
+C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Development\FPSProject\Definitions.FPSProject.h
+c:\users\sfg55\documents\unreal projects\fpsproject\source\fpsproject\FPSProject.h
+c:\users\sfg55\documents\unreal projects\fpsproject\source\fpsproject\FPSProjectGameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\sfg55\Documents\Unreal Projects\FPSProject\Intermediate\Build\Win64\UE4Editor\Inc\FPSProject\FPSProjectGameModeBase.generated.h
